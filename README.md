@@ -15,8 +15,4 @@
 
   <!-- Contribution Calendar -->
   <img height="180em" src="https://ghchart.rshah.org/michymono77"/>
-
-  <!-- Commit Frequency Chart -->
-  <img height="180em" src="https://github-readme-commit-graph.vercel.app/?user=michymono77&theme=dark"/>
-
 </div>
