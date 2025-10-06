@@ -10,9 +10,6 @@
   <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michymono77&layout=compact&theme=dark"/>
 
-  <!-- Activity Graph -->
-  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=michymono77&theme=react-dark"/>
-
   <!-- Contribution Calendar -->
   <img height="180em" src="https://ghchart.rshah.org/michymono77"/>
 </div>
