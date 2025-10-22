@@ -1,4 +1,4 @@
-# Michiharu Ono | Full-Stack Developer 👋
+# Michiharu Ono | Full-Stack Developer | AI Developer 👋
 
 <div align="center">
 
