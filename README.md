@@ -1,4 +1,4 @@
-# Full-Stack Developer | AI Developer 👋
+# Full-Stack Developer 🇯🇵🇫🇷🇬🇧🇺🇸
 
 <div align="center">
 
